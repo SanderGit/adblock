@@ -1,3 +1,4 @@
+# my custom blocklist - block at your own risk
 config.ster.nl
 tellerapi.npo.nl
 app.adjust.com
