@@ -17,7 +17,6 @@ socialize.eu1.gigya.com
 a1.vdna-assets.com
 stats.persgroep.nl
 app-measurement.com
-settings.crashlytics.com
 telemetry.api.swiftkey.com
 beacon.krxd.net
 gigya.com
