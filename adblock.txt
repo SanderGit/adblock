@@ -8,7 +8,6 @@ config.ioam.de
 api.apptentive.com
 sdk.open.phone.igexin.com
 api.branch.io
-analytics.twitter.com
 7b935.v.fwmrm.net
 ssl-skoksbs.2cnt.net
 sat.sanoma.fi
