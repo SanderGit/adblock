@@ -21,3 +21,9 @@ telemetry.api.swiftkey.com
 beacon.krxd.net
 gigya.com
 www.googletagmanager.com
+mobile.pipe.aria.microsoft.com
+sdk.fiksu.com
+cdn-settings.segment.com
+api.mixpanel.com
+decide.mixpanel.com
+telemetry.api.swiftkey.com
