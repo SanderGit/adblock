@@ -1,5 +1,5 @@
 # my custom blocklist - block at your own risk
-config.ster.nl
+# config.ster.nl - breaks NPO Start currently
 app.adjust.com
 mobile-connector.newrelic.com
 config.ioam.de
