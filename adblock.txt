@@ -33,4 +33,7 @@ metrics.icloud.com
 metrics.mzstatic.com
 data.mistat.xiaomi.com
 appmetrica.yandex.com
-lobbak.hicloud.com
+logbak.hicloud.com
+browser.sentry-cdn.com
+trk.pinterest.com
+widgets.pinterest.com
