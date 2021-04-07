@@ -26,3 +26,11 @@ cdn-settings.segment.com
 api.mixpanel.com
 decide.mixpanel.com
 telemetry.api.swiftkey.com
+insights.samsung.com
+analytics-api.samsunghealthcn.com
+supportmetrics.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
+data.mistat.xiaomi.com
+appmetrica.yandex.com
+lobbak.hicloud.com
